@@ -23,7 +23,7 @@ Hola! Soy Miguel, un desarrollador web y creativo digital apasionado por transfo
 ---
 
 ## 🌟 Proyectos Destacados
-- [**LowFreqMX**](https://lowfreqmx.com) – Plataforma de música y experiencias interactivas, con integración de APIs y diseño generativo de videoarte.  
+- [**LowFreqMX**](https://lowfreqmx.com) – Pagina web para el sello musical y rooster de artistas Low Freq Mexico.  
 - **CEPDA** – Proyecto final de curso, desarrollo web completo con backend en Python y SQLAlchemy.  
 - **Portfolio Web** – Mi escaparate personal de proyectos, creatividad y habilidades técnicas.
 
