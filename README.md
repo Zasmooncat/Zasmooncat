@@ -36,9 +36,5 @@ Hola! Soy Miguel, un desarrollador web y creativo digital apasionado por transfo
 
 ---
 
-## ✨ Toque Personal
-“Creo que la creatividad y la tecnología no tienen límites; cada línea de código y cada frame de video es una oportunidad para dejar una huella digital única.”  
-
----
 
 ¡Gracias por visitar mi perfil! Si quieres colaborar, explorar proyectos o charlar sobre desarrollo y videoarte generativo, no dudes en contactarme.
