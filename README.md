@@ -1,4 +1,4 @@
-# Miguel Angel Pardo Bargues (Zas🌙🐈‍⬛)
+# Miguel Angel Pardo (Zas🌙🐈‍⬛)
 
 ![GitHub followers](https://img.shields.io/github/followers/Zasmooncat?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Zasmooncat?style=social)
