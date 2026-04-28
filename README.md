@@ -24,6 +24,7 @@ Hola! Soy Miguel, un desarrollador web y creativo digital apasionado por transfo
 ---
 
 ## 🌟 Proyectos Destacados
+- [**Moonkat Records**](https://moonkatrecords.com.com) – Pagina web para el sello musical Moonkat Records. 
 - [**LowFreqMX**](https://lowfreqmx.com) – Pagina web para el sello musical y rooster de artistas Low Freq Mexico.  
 - **ZEPDA** – Proyecto final de curso, desarrollo web completo con backend en Python y SQLAlchemy.  
 - **Portfolio Web**
